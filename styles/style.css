@@ -69,6 +69,7 @@
   display: grid;
   grid-template-rows: auto max-content auto;
   align-items: center;
+  height: 100%;
 }
 
 .decorative-rec-icon {
@@ -376,6 +377,7 @@
 
 .footer {
   display: grid;
+  height: 100%;
 }
 
 .footer__text {
